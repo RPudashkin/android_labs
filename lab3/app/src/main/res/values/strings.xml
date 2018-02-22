@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="takePhoto">Take a photo</string>
+    <string name="enterNameOfPhoto">Enter the name of photo</string>
+    <string name="enterNameOfPhotoWarning">Please, enter the name of photo!</string>
+    <string name="storagePermissionDenied">You must allow the application to access the storage!</string>
+</resources>

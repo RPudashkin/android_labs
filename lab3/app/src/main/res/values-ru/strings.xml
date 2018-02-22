@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="enterNameOfPhoto">Введите название фотографии</string>
+    <string name="enterNameOfPhotoWarning">Пожалуйста, введите название фотографии!</string>
+    <string name="takePhoto">Сделать фото</string>
+    <string name="storagePermissionDenied">Вы должны разрешить приложению обращаться к хранилищу!</string>
+</resources>
