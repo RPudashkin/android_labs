@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="mercury">Меркурий</string>
+    <string name="venus">Венера</string>
+    <string name="earth">Земля</string>
+    <string name="mars">Марс</string>
+    <string name="jupiter">Юпитер</string>
+    <string name="saturn">Сатурн</string>
+    <string name="uranus">Уран</string>
+    <string name="neptune">Нептун</string>
+    <string name="pluto">Плутон</string>
+    <string name="mercury_url">https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9</string>
+    <string name="venus_url">https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0</string>
+    <string name="earth_url">https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F</string>
+    <string name="jupiter_url">https://ru.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80</string>
+    <string name="saturn_url">https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD</string>
+    <string name="uranus_url">https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%BD_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)</string>
+    <string name="neptune_url">https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%82%D1%83%D0%BD</string>
+    <string name="pluto_url">https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD</string>
+    <string name="mars_url">https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81</string>
+    <string name="there_are_life">здесь есть жизнь...</string>
+</resources>
